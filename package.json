@@ -1,0 +1,10 @@
+{
+  "name": "transform-compat",
+  "version": "0.1.0",
+  "author": "Mat Tyndall <mat@tinj.com> (http://tinj.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinj/transform-compat"
+  },
+  "main": "compat.js"
+}
